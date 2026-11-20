@@ -5,7 +5,7 @@
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-VFX-Motion-Graphics-Generation?style=social)](https://github.com/ishandutta2007/Awesome-VFX-Motion-Graphics-Generation/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-VFX-Motion-Graphics-Generation?style=social)](https://github.com/ishandutta2007/Awesome-VFX-Motion-Graphics-Generation/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <br/>
@@ -134,7 +134,7 @@ Contributions are welcome! Please follow these guidelines:
 2. 🌿 **Create a new branch** (`git checkout -b add-my-vfx-tool`).
 3. 📝 **Add your tool / repository**:
    - Ensure the description is objective, factual, and concise.
-   - For open-source tools, include the proper star badge format linking to stargazers.
+   - For open-source tools, include the proper Stars_Badge format linking to stargazers.
    - For SaaS tools, provide accurate starting prices and specific free tier / trial terms.
 4. 🚀 **Submit a Pull Request** with a clear description of the project.
 
